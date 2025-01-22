@@ -1,1 +1,1 @@
-# Duplicate-remover
+# Duplicate-remover using positional list
